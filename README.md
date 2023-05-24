@@ -1,6 +1,6 @@
 # mario-jump 
-Esta é uma recriação do jogo Mario Bros, utilizando HTML JavaScript e CSS.
+Esta é uma recriação do jogo Mario Bros, utilizando HTML, JavaScript e CSS.
 
 <p align="center">
-  <img width="750" src="https://github.com/jemimabueno/mario-jump/blob/main/assets/to_readme/mario.gif">
+  <img width="800" src="https://github.com/jemimabueno/mario-jump/blob/main/assets/to_readme/mario.gif">
   </p>
